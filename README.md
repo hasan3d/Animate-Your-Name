@@ -1,13 +1,14 @@
 # Animate Your Name
 
-I wrote this JavaScript as a part of the project assigned by Codecademy(https://www.codecademy.com).
-In order to accomplish this project i had to use JavaScript library such as jQuery.
+I wrote this JavaScript as a part of the project assigned by [Codecademy] (https://www.codecademy.com).
+In order to accomplish this project i had to use JavaScript library such as jQuery, alphabet.js etc.
+I have also used Regular expression to validate full name only input to be accepted.
 
 ### How to use it?:
 
-Simply clone this project and replace your name in custom.js file where i have commented specifically which line to to add. By default, My name in there. You can change it to whatever you like.
+You must have to enter your full name in order to successfully animate it. If you enter anything else, such as numbers, digits, and even the first part of your name it will raise an error. However, You are allowed to use hyphens (-) in between your first and surname.
 
-[Click here to see the demo live!] (http://htmlpreview.github.io/?https://github.com/hasan3d/Animated-Name/blob/master/index.html)
+### [View Project] (http://hasanme.com/AnimatedName/index.html)
 
 ### Screenshot of the Animated Name:
 ![Animated Name](animated-name.png)
